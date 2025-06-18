@@ -43,7 +43,7 @@ print_fiche_titre($langs->trans("AzAccountingSetup"), '', 'object_azaccounting.p
 print '<div class="fichecenter">';
 print '<div class="underbanner clearboth"></div>';
 
-print 'Azərbaycan Mühasibatlıq modulunun tənzimləmə səhifəsi. Bu funksiya hələ hazırlanır.';
+print $langs->trans("AzAccountingSetupIntro");
 
 // Placeholder for future configuration form
 // print '<form action="'.$_SERVER["PHP_SELF"].'" method="POST">';
