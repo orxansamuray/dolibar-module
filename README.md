@@ -1,1 +1,0 @@
-# dolibar-module
